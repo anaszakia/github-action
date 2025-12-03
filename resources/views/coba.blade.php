@@ -7,6 +7,6 @@
     <title>Coba Deploy</title>
 </head>
 <body>
-    <p>Hello, this is a test page for deployment.</p>
+    <p>Coba deploy berhasil!</p>
 </body>
 </html>
